@@ -1,0 +1,13 @@
+The all code here run using pycharm.
+To run this code you have to setup the environment 
+  for that you have to check the python version ( on windows its need to be more than 3.something & for mac it normal)
+  to check that open pycharm terminal and type [ python --version ] that will show the version of python install in your device 
+  .
+  After that you have to install kivy in to your project file 
+    to do that 
+      just my file then open pycharm terminal and type [ pip install kivy ]
+      wait some time and then done you are able to run this code in to your device 
+
+
+
+Have fun 
